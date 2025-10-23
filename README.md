@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">👋 Hey, I'm <span style="color:#58a6ff;">Usman</span></h1>
+<h1 align="center">👋 Hey, I'm <span style="color:#58a6ff;">Muhammad Usman</span></h1>
 
 <p align="center">
   🎓 <b>BS Cyber Security Student</b> &nbsp;|&nbsp; 🧠 <b>Programmer</b> &nbsp;|&nbsp; 🐧 <b>Linux Enthusiast</b>
