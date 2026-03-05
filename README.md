@@ -108,7 +108,7 @@ A fictional **software development company** created for an entrepreneurship pro
 
 <p align="center">
 
-<a href="mailto:aliabbasqazi@gmail.com">
+<a href="mailto:usmanchudhary.08@gmail.com">
 <img src="https://img.shields.io/badge/Email-58a6ff?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
