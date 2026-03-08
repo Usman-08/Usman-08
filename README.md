@@ -93,17 +93,6 @@ A fictional **software development company** created for an entrepreneurship pro
 </p>
 
 ---
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Usman-08/Usman-08/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
-
 # 🌐 Connect With Me
 
 <p align="center">
